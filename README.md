@@ -27,7 +27,7 @@ Remove `{Http}` from the declaration and the compiler rejects the program.
 ## Install
 
 ```bash
-brew install baseline-lang/tap/baseline
+brew install dawson-design/tap/baseline
 ```
 
 Or [download a binary](https://github.com/baseline-lang/baseline/releases), or build from source:

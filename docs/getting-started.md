@@ -7,7 +7,7 @@ Baseline is a strongly typed, effect-based programming language. This guide take
 ### Homebrew (macOS)
 
 ```bash
-brew install baseline-lang/tap/baseline
+brew install dawson-design/tap/baseline
 ```
 
 ### Direct Download
